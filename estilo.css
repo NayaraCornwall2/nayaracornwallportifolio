@@ -1,0 +1,119 @@
+
+*{  text-align: center;
+  color: rgb(250, 251, 252);
+
+}
+
+
+
+p{ text-align:center;
+  color: rgb(248, 244, 244);
+
+
+}
+
+body{ background-color: darkslateblue;
+
+
+}
+section{color: antiquewhite;
+
+}
+
+ul { display:inline;
+
+
+}
+
+
+img{
+
+  //border-radius: 10px;
+  //opacity: 0;
+  border-radius: 30%;
+  display: block;
+  margin: auto;
+  
+}
+
+ul{
+  list-style-type: style none;
+  margin:0;
+  padding:0;
+  background-color: fuchsia;
+  
+  }
+
+li a{
+  display: block;
+  color:aliceblue;
+  padding: 8px 16 px;
+  text-decoration: none;
+
+}
+
+li a:hover{
+background-color: blueviolet
+;
+
+}
+
+*{
+  margim: 0 auto;
+  padding:0;
+
+}
+
+p, h1, h2, h3{
+
+  text-align: center;
+}
+
+.tamanho{
+  width:30%;
+  height:250 px;
+  border: solid 1px;
+  border-radius: 50px 5px;
+}
+
+.espaço{
+
+  padding:20px;
+}
+
+.principal{
+
+  width:100%;
+  padding:20px;
+}
+.cor1{
+  background-color: deeppink;
+}
+.cor2{
+  background-color: deeppink;
+}
+.cor3{
+  background-color: deeppink;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: blueviolet;
+    color: rgb(11, 19, 26);
+
+}
+ 
+button{ background-color: rgb(220, 20, 143);
+
+
+}
+ 
+ 
+ 
+.menu { grid-column-start: 7; grid-column-end: 12; justify-content: center;
+   text-align: center; }
+
+   
